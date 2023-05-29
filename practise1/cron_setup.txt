@@ -1,0 +1,3 @@
+# run this command to setup runing script every 10 minutes
+1. crontab
+2. paste this line to file "*/10 * * * * /home/ibruh/devops/practise1/practise1.sh"
